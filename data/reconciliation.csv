@@ -1,0 +1,170 @@
+check,value_a,value_b,result
+net_interest_income fy2022: as printed in fy2023 deck vs fy2022 deck,474.66,474.66,OK
+non_interest_income_excl_treasury fy2022: as printed in fy2023 deck vs fy2022 deck,176.14,176.14,OK
+fee_income fy2022: as printed in fy2023 deck vs fy2022 deck,156.87,156.87,OK
+operating_expenses fy2022: as printed in fy2023 deck vs fy2022 deck,267.33,267.33,OK
+core_operating_profit fy2022: as printed in fy2023 deck vs fy2022 deck,383.47,383.47,OK
+provisions fy2022: as printed in fy2023 deck vs fy2022 deck,86.41,86.41,OK
+treasury_income fy2022: as printed in fy2023 deck vs fy2022 deck,9.03,9.03,OK
+profit_before_tax fy2022: as printed in fy2023 deck vs fy2022 deck,306.09,306.09,OK
+tax fy2022: as printed in fy2023 deck vs fy2022 deck,72.7,72.7,OK
+profit_after_tax fy2022: as printed in fy2023 deck vs fy2022 deck,233.39,233.39,OK
+net_interest_margin fy2022: as printed in fy2023 deck vs fy2022 deck,3.96,3.96,OK
+cost_to_income fy2022: as printed in fy2023 deck vs fy2022 deck,40.5,40.5,OK
+credit_cost_provisions_to_avg_advances fy2022: as printed in fy2023 deck vs fy2022 deck,1.12,1.12,OK
+roa fy2022: as printed in fy2023 deck vs fy2022 deck,1.84,1.84,OK
+eps_basic fy2022: as printed in fy2023 deck vs fy2022 deck,33.7,33.7,OK
+book_value_per_share fy2022: as printed in fy2023 deck vs fy2022 deck,245.4,245.4,OK
+net_worth fy2022: as printed in fy2023 deck vs fy2022 deck,1705.12,1705.12,OK
+equity_share_capital fy2022: as printed in fy2023 deck vs fy2022 deck,13.9,13.9,OK
+total_deposits fy2022: as printed in fy2023 deck vs fy2022 deck,10645.72,10645.72,OK
+current_deposits fy2022: as printed in fy2023 deck vs fy2022 deck,1584.8,1584.8,OK
+savings_deposits fy2022: as printed in fy2023 deck vs fy2022 deck,3599.57,3599.57,OK
+total_assets fy2022: as printed in fy2023 deck vs fy2022 deck,14112.98,14112.98,OK
+total_advances_net fy2022: as printed in fy2023 deck vs fy2022 deck,8590.2,8590.2,OK
+gross_npa_amount fy2022: as printed in fy2023 deck vs fy2022 deck,339.2,339.2,OK
+net_npa_amount fy2022: as printed in fy2023 deck vs fy2022 deck,69.61,69.61,OK
+gross_npa_ratio fy2022: as printed in fy2023 deck vs fy2022 deck,3.6,3.6,OK
+net_npa_ratio fy2022: as printed in fy2023 deck vs fy2022 deck,0.76,0.76,OK
+provision_coverage_ratio fy2022: as printed in fy2023 deck vs fy2022 deck,79.2,79.2,OK
+net_interest_income fy2023: as printed in fy2024 deck vs fy2023 deck,621.29,621.29,OK
+non_interest_income_excl_treasury fy2023: as printed in fy2024 deck vs fy2023 deck,198.83,198.83,OK
+fee_income fy2023: as printed in fy2024 deck vs fy2023 deck,180.01,180.01,OK
+operating_expenses fy2023: as printed in fy2024 deck vs fy2023 deck,328.73,328.73,OK
+core_operating_profit fy2023: as printed in fy2024 deck vs fy2023 deck,491.39,491.39,OK
+provisions fy2023: as printed in fy2024 deck vs fy2023 deck,66.66,66.66,OK
+treasury_income fy2023: as printed in fy2024 deck vs fy2023 deck,-0.52,-0.52,OK
+profit_before_tax fy2023: as printed in fy2024 deck vs fy2023 deck,424.21,424.21,OK
+tax fy2023: as printed in fy2024 deck vs fy2023 deck,105.25,105.25,OK
+profit_after_tax fy2023: as printed in fy2024 deck vs fy2023 deck,318.96,318.96,OK
+net_interest_margin fy2023: as printed in fy2024 deck vs fy2023 deck,4.48,4.48,OK
+cost_to_income fy2023: as printed in fy2024 deck vs fy2023 deck,40.1,40.1,OK
+credit_cost_provisions_to_avg_advances fy2023: as printed in fy2024 deck vs fy2023 deck,0.71,0.71,OK
+roa fy2023: as printed in fy2024 deck vs fy2023 deck,2.16,2.16,OK
+eps_basic fy2023: as printed in fy2024 deck vs fy2023 deck,45.8,45.8,OK
+book_value_per_share fy2023: as printed in fy2024 deck vs fy2023 deck,287.4,287.4,OK
+net_worth fy2023: as printed in fy2024 deck vs fy2023 deck,2007.16,2007.16,OK
+equity_share_capital fy2023: as printed in fy2024 deck vs fy2023 deck,13.97,13.97,OK
+total_deposits fy2023: as printed in fy2024 deck vs fy2023 deck,11808.41,11808.41,OK
+current_deposits fy2023: as printed in fy2024 deck vs fy2023 deck,1614.86,1614.86,OK
+savings_deposits fy2023: as printed in fy2024 deck vs fy2023 deck,3797.76,3797.76,OK
+total_assets fy2023: as printed in fy2024 deck vs fy2023 deck,15842.07,15842.07,OK
+total_advances_net fy2023: as printed in fy2024 deck vs fy2023 deck,10196.38,10196.38,OK
+gross_npa_amount fy2023: as printed in fy2024 deck vs fy2023 deck,311.84,311.84,OK
+net_npa_amount fy2023: as printed in fy2024 deck vs fy2023 deck,51.55,51.55,OK
+gross_npa_ratio fy2023: as printed in fy2024 deck vs fy2023 deck,2.81,2.81,OK
+net_npa_ratio fy2023: as printed in fy2024 deck vs fy2023 deck,0.48,0.48,OK
+provision_coverage_ratio fy2023: as printed in fy2024 deck vs fy2023 deck,82.8,82.8,OK
+net_interest_income fy2024: as printed in fy2025 deck vs fy2024 deck,743.06,743.06,OK
+non_interest_income_excl_treasury fy2024: as printed in fy2025 deck vs fy2024 deck,229.49,229.49,OK
+fee_income fy2024: as printed in fy2025 deck vs fy2024 deck,207.96,207.96,OK
+operating_expenses fy2024: as printed in fy2025 deck vs fy2024 deck,391.33,391.33,OK
+core_operating_profit fy2024: as printed in fy2025 deck vs fy2024 deck,581.22,581.22,OK
+provisions fy2024: as printed in fy2025 deck vs fy2024 deck,36.43,36.43,OK
+treasury_income fy2024: as printed in fy2025 deck vs fy2024 deck,0.09,0.09,OK
+profit_before_tax fy2024: as printed in fy2025 deck vs fy2024 deck,544.88,544.88,OK
+tax fy2024: as printed in fy2025 deck vs fy2024 deck,136.0,136.0,OK
+profit_after_tax fy2024: as printed in fy2025 deck vs fy2024 deck,408.88,408.88,OK
+net_interest_margin fy2024: as printed in fy2025 deck vs fy2024 deck,4.53,4.53,OK
+cost_to_income fy2024: as printed in fy2025 deck vs fy2024 deck,40.2,40.2,OK
+credit_cost_provisions_to_avg_advances fy2024: as printed in fy2025 deck vs fy2024 deck,0.32,0.32,OK
+roa fy2024: as printed in fy2025 deck vs fy2024 deck,2.37,2.37,OK
+eps_basic fy2024: as printed in fy2025 deck vs fy2024 deck,58.4,58.4,OK
+book_value_per_share fy2024: as printed in fy2025 deck vs fy2024 deck,339.5,339.5,OK
+net_worth fy2024: as printed in fy2025 deck vs fy2024 deck,2383.99,2383.99,OK
+equity_share_capital fy2024: as printed in fy2025 deck vs fy2024 deck,14.05,14.05,OK
+total_deposits fy2024: as printed in fy2025 deck vs fy2024 deck,14128.25,14128.25,OK
+current_deposits fy2024: as printed in fy2025 deck vs fy2024 deck,1935.72,1935.72,OK
+savings_deposits fy2024: as printed in fy2025 deck vs fy2024 deck,4023.0,4023.0,OK
+total_assets fy2024: as printed in fy2025 deck vs fy2024 deck,18715.15,18715.15,OK
+total_advances_net fy2024: as printed in fy2025 deck vs fy2024 deck,11844.06,11844.06,OK
+gross_npa_amount fy2024: as printed in fy2025 deck vs fy2024 deck,279.62,279.62,OK
+net_npa_amount fy2024: as printed in fy2025 deck vs fy2024 deck,53.78,53.78,OK
+gross_npa_ratio fy2024: as printed in fy2025 deck vs fy2024 deck,2.16,2.16,OK
+net_npa_ratio fy2024: as printed in fy2025 deck vs fy2024 deck,0.42,0.42,OK
+provision_coverage_ratio fy2024: as printed in fy2025 deck vs fy2024 deck,80.3,80.3,OK
+net_interest_income fy2025: as printed in fy2026 deck vs fy2025 deck,811.65,811.65,OK
+non_interest_income_excl_treasury fy2025: as printed in fy2026 deck vs fy2025 deck,266.03,266.03,OK
+fee_income fy2025: as printed in fy2026 deck vs fy2025 deck,238.7,238.7,OK
+operating_expenses fy2025: as printed in fy2026 deck vs fy2025 deck,423.72,423.72,OK
+core_operating_profit fy2025: as printed in fy2026 deck vs fy2025 deck,653.96,653.96,OK
+provisions fy2025: as printed in fy2026 deck vs fy2025 deck,46.83,46.83,OK
+treasury_income fy2025: as printed in fy2026 deck vs fy2025 deck,19.03,19.03,OK
+profit_before_tax fy2025: as printed in fy2026 deck vs fy2025 deck,626.16,626.16,OK
+tax fy2025: as printed in fy2026 deck vs fy2025 deck,153.89,153.89,OK
+profit_after_tax fy2025: as printed in fy2026 deck vs fy2025 deck,472.27,472.27,OK
+net_interest_margin fy2025: as printed in fy2026 deck vs fy2025 deck,4.32,4.32,OK
+cost_to_income fy2025: as printed in fy2026 deck vs fy2025 deck,38.6,38.6,OK
+credit_cost_provisions_to_avg_advances fy2025: as printed in fy2026 deck vs fy2025 deck,0.36,0.36,OK
+roa fy2025: as printed in fy2026 deck vs fy2025 deck,2.4,2.4,OK
+eps_basic fy2025: as printed in fy2026 deck vs fy2025 deck,67.0,67.0,OK
+book_value_per_share fy2025: as printed in fy2026 deck vs fy2025 deck,410.1,410.1,OK
+net_worth fy2025: as printed in fy2026 deck vs fy2025 deck,2920.77,2920.77,OK
+equity_share_capital fy2025: as printed in fy2026 deck vs fy2025 deck,14.25,14.25,OK
+total_deposits fy2025: as printed in fy2026 deck vs fy2025 deck,16103.48,16103.48,OK
+current_deposits fy2025: as printed in fy2026 deck vs fy2025 deck,2329.57,2329.57,OK
+savings_deposits fy2025: as printed in fy2026 deck vs fy2025 deck,4407.72,4407.72,OK
+total_assets fy2025: as printed in fy2026 deck vs fy2025 deck,21182.4,21182.4,OK
+total_advances_net fy2025: as printed in fy2026 deck vs fy2025 deck,13417.66,13417.66,OK
+gross_npa_amount fy2025: as printed in fy2026 deck vs fy2025 deck,241.66,241.66,OK
+net_npa_amount fy2025: as printed in fy2026 deck vs fy2025 deck,55.89,55.89,OK
+gross_npa_ratio fy2025: as printed in fy2026 deck vs fy2025 deck,1.67,1.67,OK
+net_npa_ratio fy2025: as printed in fy2026 deck vs fy2025 deck,0.39,0.39,OK
+provision_coverage_ratio fy2025: as printed in fy2026 deck vs fy2025 deck,76.2,76.2,OK
+profit_after_tax fy2022: audited (fy22_q4_press_release.pdf) vs deck,233.39,233.39,OK
+equity_share_capital fy2022: audited (fy22_q4_press_release.pdf) vs deck,13.9,13.9,OK
+total_deposits fy2022: audited (fy22_q4_press_release.pdf) vs deck,10645.72,10645.72,OK
+total_assets fy2022: audited (fy22_q4_press_release.pdf) vs deck,14112.98,14112.98,OK
+total_advances_net fy2022: audited (fy22_q4_press_release.pdf) vs deck,8590.2,8590.2,OK
+profit_after_tax fy2023: audited (fy23_q4_press_release.pdf) vs deck,318.96,318.96,OK
+profit_after_tax fy2022: audited prior-year column (fy23_q4_press_release.pdf) vs deck,233.39,233.39,OK
+equity_share_capital fy2023: audited (fy23_q4_press_release.pdf) vs deck,13.97,13.97,OK
+equity_share_capital fy2022: audited prior-year column (fy23_q4_press_release.pdf) vs deck,13.9,13.9,OK
+total_deposits fy2023: audited (fy23_q4_press_release.pdf) vs deck,11808.41,11808.41,OK
+total_deposits fy2022: audited prior-year column (fy23_q4_press_release.pdf) vs deck,10645.72,10645.72,OK
+total_assets fy2023: audited (fy23_q4_press_release.pdf) vs deck,15842.07,15842.07,OK
+total_assets fy2022: audited prior-year column (fy23_q4_press_release.pdf) vs deck,14112.98,14112.98,OK
+total_advances_net fy2023: audited (fy23_q4_press_release.pdf) vs deck,10196.38,10196.38,OK
+total_advances_net fy2022: audited prior-year column (fy23_q4_press_release.pdf) vs deck,8590.2,8590.2,OK
+profit_after_tax fy2025: audited (fy25_q4_financial_results.pdf) vs deck,472.27,472.27,OK
+profit_after_tax fy2024: audited prior-year column (fy25_q4_financial_results.pdf) vs deck,408.88,408.88,OK
+equity_share_capital fy2025: audited (fy25_q4_financial_results.pdf) vs deck,14.25,14.25,OK
+equity_share_capital fy2024: audited prior-year column (fy25_q4_financial_results.pdf) vs deck,14.05,14.05,OK
+total_deposits fy2025: audited (fy25_q4_financial_results.pdf) vs deck,16103.48,16103.48,OK
+total_deposits fy2024: audited prior-year column (fy25_q4_financial_results.pdf) vs deck,14128.25,14128.25,OK
+total_assets fy2025: audited (fy25_q4_financial_results.pdf) vs deck,21182.4,21182.4,OK
+total_assets fy2024: audited prior-year column (fy25_q4_financial_results.pdf) vs deck,18715.15,18715.15,OK
+total_advances_net fy2025: audited (fy25_q4_financial_results.pdf) vs deck,13417.66,13417.66,OK
+total_advances_net fy2024: audited prior-year column (fy25_q4_financial_results.pdf) vs deck,11844.06,11844.06,OK
+profit_after_tax fy2026: audited (fy26_q4_financial_results.pdf) vs deck,501.47,501.47,OK
+profit_after_tax fy2025: audited prior-year column (fy26_q4_financial_results.pdf) vs deck,472.27,472.27,OK
+equity_share_capital fy2026: audited (fy26_q4_financial_results.pdf) vs deck,14.32,14.32,OK
+equity_share_capital fy2025: audited prior-year column (fy26_q4_financial_results.pdf) vs deck,14.25,14.25,OK
+total_deposits fy2026: audited (fy26_q4_financial_results.pdf) vs deck,17946.25,17946.25,OK
+total_deposits fy2025: audited prior-year column (fy26_q4_financial_results.pdf) vs deck,16103.48,16103.48,OK
+total_assets fy2026: audited (fy26_q4_financial_results.pdf) vs deck,23725.31,23725.31,OK
+total_assets fy2025: audited prior-year column (fy26_q4_financial_results.pdf) vs deck,21182.4,21182.4,OK
+total_advances_net fy2026: audited (fy26_q4_financial_results.pdf) vs deck,15538.93,15538.93,OK
+total_advances_net fy2025: audited prior-year column (fy26_q4_financial_results.pdf) vs deck,13417.66,13417.66,OK
+equity_share_capital Sep 2026: audited (fy27_q2_financial_results.pdf) vs deck,14.36,14.36,OK
+total_deposits Sep 2026: audited (fy27_q2_financial_results.pdf) vs deck,20498.74,20498.74,OK
+total_assets Sep 2026: audited (fy27_q2_financial_results.pdf) vs deck,27252.87,27252.87,OK
+total_advances_net Sep 2026: audited (fy27_q2_financial_results.pdf) vs deck,18315.8,18315.8,OK
+PBT fy2022: core op profit - provisions + treasury,306.09,306.09,OK
+PAT fy2022: PBT - tax,233.39,233.39,OK
+Core op profit fy2022: NII + non-interest income - opex,383.47,383.47,OK
+PBT fy2023: core op profit - provisions + treasury,424.21,424.21,OK
+PAT fy2023: PBT - tax,318.96,318.96,OK
+Core op profit fy2023: NII + non-interest income - opex,491.39,491.39,OK
+PBT fy2024: core op profit - provisions + treasury,544.88,544.88,OK
+PAT fy2024: PBT - tax,408.88,408.88,OK
+Core op profit fy2024: NII + non-interest income - opex,581.22,581.22,OK
+PBT fy2025: core op profit - provisions + treasury,626.16,626.16,OK
+PAT fy2025: PBT - tax,472.27,472.27,OK
+Core op profit fy2025: NII + non-interest income - opex,653.96,653.96,OK
+PBT fy2026: core op profit - provisions + treasury,662.19,662.19,OK
+PAT fy2026: PBT - tax,501.47,501.47,OK
+Core op profit fy2026: NII + non-interest income - opex,704.01,704.01,OK
+PBT h1fy2027: core op profit - provisions + treasury,388.5,388.5,OK
+PAT h1fy2027: PBT - tax,296.48,296.48,OK
+Core op profit h1fy2027: NII + non-interest income - opex,410.4,410.4,OK
